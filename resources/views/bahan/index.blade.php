@@ -10,7 +10,8 @@
 
                     <div class="page-title d-flex flex-column gap-1 me-3 mb-2">
                         <ul class="breadcrumb breadcrumb-separatorless fw-semibold mb-6">
-
+ 
+                        
                             <li class="breadcrumb-item text-gray-700 fw-bold lh-1">
                                 <a href="{{ route('dashboard') }}" class="text-gray-500">
                                     <i class="ki-duotone ki-home fs-3 text-gray-400 me-n1"></i>
